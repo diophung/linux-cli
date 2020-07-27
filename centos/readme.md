@@ -22,3 +22,6 @@ This is a set of frequently commands to set up a CentOS env.
 ```
 /bin/bash 3-utils.sh
 ```
+
+## Signing git commit with GPG
+See : https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification
