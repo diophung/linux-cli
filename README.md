@@ -1,5 +1,5 @@
-# linux-term
-Linux terminal kit including .vimrc, .inputrc, .bashrc, .bash_profile and the likes
+# linux-cli
+Linux kit for working with terminals including .vimrc, .inputrc, .bashrc, .bash_profile and the likes
 
 
 ## How to install
