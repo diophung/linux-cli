@@ -6,3 +6,6 @@ sudo yum install -y dkms
 sudo yum install -y python3
 
 
+#security enhance linux allow httpd
+sudo yum install policycoreutils-python 
+sudo semanage permissive -a httpd_t
